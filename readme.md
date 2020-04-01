@@ -38,7 +38,10 @@ Execute o comando:
 
 Aplicação
 
-Execute o comando:
+Execute os comandos:  
+  
+``$ php artisan key:generate ``
+  
 
 `` $ php artisan serve  ``
 
